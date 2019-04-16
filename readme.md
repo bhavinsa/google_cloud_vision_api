@@ -1,7 +1,9 @@
-		$ git clone https://github.com/bhavinsa/google_cloud_vision_api.git
-    	$ cd google_cloud_vision_api
-    	$ npm install
-    	$ npm run start
+``` 
+git clone https://github.com/bhavinsa/google_cloud_vision_api.git
+cd google_cloud_vision_api
+npm install
+npm run start 
+```
 
 #### Configuration for google cloud vision api key:
 	
