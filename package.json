@@ -1,0 +1,19 @@
+{
+  "name": "google-colud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^0.25.0",
+    "express": "^4.16.4",
+    "mime": "^2.4.2",
+    "multer": "^1.4.1",
+    "util": "^0.11.1"
+  }
+}
